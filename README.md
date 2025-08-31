@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 📝 Form Validation App  
 
 A modern **Form Validation Application** built with React.js.  
@@ -74,6 +73,6 @@ npm run dev
 
 ---
 ```
-##👨‍💻 Author
+👨‍💻 Author
 
 Crafted with focus and creativity by Abdullah Arif
